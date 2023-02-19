@@ -43,18 +43,4 @@
         cursor: pointer;
         user-select: none;
     }
-
-    .tile .wordpart {
-        background-color: #dd8c91;
-        color: #0879cc;
-        cursor: pointer;
-        user-select: none;
-    }
-
-    .tile .errored {
-        background-color: #dd5d65;
-        color: #74a8cd;
-        cursor: pointer;
-        user-select: none;
-    }
 </style>

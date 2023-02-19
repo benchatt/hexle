@@ -32,7 +32,7 @@
         swipeActive = false;
         lastWord = activeWord;
         activeWord = "";
-        this.querySelectorAll(".tile").foreach((element) => {
+        this.querySelectorAll(".tile").forEach((element) => {
             element.classList.remove("wordpart");
             element.classList.remove("errored");
         });
